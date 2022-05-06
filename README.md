@@ -1,1 +1,1 @@
-# TDD-setup-for-leetcode-challenges
+# TDD setup for leetcode challenges
